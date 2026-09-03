@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0560-subarray-sum-equals-k) |
+| [2596-check-knight-tour-configuration](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -150,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
