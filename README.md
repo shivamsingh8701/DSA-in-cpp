@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0344-reverse-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2965-find-missing-and-repeated-values) |
@@ -168,9 +170,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
