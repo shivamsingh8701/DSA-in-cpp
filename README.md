@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0020-valid-parentheses) |
+| [0901-online-stock-span](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -197,4 +198,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
