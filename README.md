@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0560-subarray-sum-equals-k) |
 | [2596-check-knight-tour-configuration](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2965-find-missing-and-repeated-values) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0901-online-stock-span) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/2965-find-missing-and-repeated-values) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/shivamsingh8701/DSA-in-c-/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
